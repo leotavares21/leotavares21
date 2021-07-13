@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Leonardo Tavares
+
+I'm a web developer since 2017 and i love make new apps.
+
+- 🌎 From São Paulo - Brazil
+- 💻 Front-End Developer
+- 🏀 Love basketball
+
 <!--
 **leotavares21/leotavares21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
