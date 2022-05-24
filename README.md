@@ -4,7 +4,7 @@ My name is Leonardo Tavares
 
 I'm a web developer since 2017 and i love make new apps.
 
-- 🌎 From Juazeiro - BA - Brazil
+- 🌎 From São Paulo - SP - Brazil
 - 💻 Front-End Developer
 - 🤖 Love new technologies
 
