@@ -2,7 +2,7 @@
 
 My name is Leonardo Tavares
 
-As a web developer with 5 years of experience, I have a strong foundation in front-end development technologies such as HTML, CSS, and JavaScript. I am skilled in building responsive and user-friendly web interfaces that are optimized for speed and accessibility. Additionally, I am committed to learning and staying up-to-date with the latest web development trends and best practices. I have extensive experience working with popular web frameworks such as ReactJS. 
+Como desenvolvedor web com 5 anos de experiência, tenho uma base sólida em tecnologias de desenvolvimento front-end, como HTML, CSS e JavaScript. Sou habilidoso em construir interfaces web responsivas e amigáveis ao usuário que são otimizadas para velocidade e acessibilidade. Além disso, estou comprometido em aprender e manter-me atualizado com as últimas tendências e melhores práticas de desenvolvimento web. Tenho extensa experiência trabalhando com frameworks web populares como o ReactJS.
 
 - 🌎 From São Paulo - SP - Brazil
 - 💻 Front-End Developer
