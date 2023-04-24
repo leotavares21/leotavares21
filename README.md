@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Como desenvolvedor web com 5 anos de experiência, tenho uma base sólida em tecnologias de desenvolvimento front-end, como HTML, CSS e JavaScript. Sou habilidoso em construir interfaces web responsivas e amigáveis ao usuário que são otimizadas para velocidade e acessibilidade. Além disso, estou comprometido em aprender e manter-me atualizado com as últimas tendências e melhores práticas de desenvolvimento web. Tenho extensa experiência trabalhando com frameworks web populares como o ReactJS.
+Como desenvolvedor web com 3 anos de experiência, tenho uma base sólida em tecnologias de desenvolvimento front-end, como HTML, CSS e JavaScript. Sou habilidoso em construir interfaces web responsivas e amigáveis ao usuário que são otimizadas para velocidade e acessibilidade. Além disso, estou comprometido em aprender e manter-me atualizado com as últimas tendências e melhores práticas de desenvolvimento web. Tenho extensa experiência trabalhando com frameworks web populares como o ReactJS.
 
 - 🌎 From São Paulo - SP - Brazil
 - 💻 Front-End Developer
